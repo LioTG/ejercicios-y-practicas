@@ -7,6 +7,9 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝
                                         
 
-
-se aceptan contribuciones abiertas 
+MODULO DE CABECERA RALPH
+se aceptan contribuciones
 creador _alexape en discord
+
+
+
