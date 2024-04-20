@@ -2,6 +2,7 @@
 #include <conio.h>
 
 using namespace std;
+using namespace System;
 
 int main()
 {
